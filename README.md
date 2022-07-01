@@ -1,4 +1,4 @@
-# pythob-projects
+# python-projects
 Some of my coding projects written in Python.
 
 To run them all you need is a simple IDE. The easiest and most basic python IDE is probably IDLE (Comes with python), however if you wish to expand upon that you can use Notepad++
